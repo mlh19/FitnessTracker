@@ -20,11 +20,15 @@ The user should be able to:
 
 # Screenshot
 
+![screenShot](./assets/images/homepage.png)
+
+![screenShot](./assets/images/dashboard.png)
+
 # Deployed Site
 
-[Link to project repo](https://github.com/mlh19/eCommerce)
+[Link to project repo](https://github.com/mlh19/)
 
-[Link to project repo](https://github.com/mlh19/FitnessTracker)
+[Link to Heroku](https://the-beast02.herokuapp.com/?id=61959a83bba3582389b5b7b1)
 
 # Other Details
 
